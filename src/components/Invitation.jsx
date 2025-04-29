@@ -10,6 +10,10 @@ function Invitation(){
         여러분과 함께 하고 싶습니다.<br/>
       </p>
       <div>
+        <p><strong>신랑 </strong>김이한</p>
+        <p><strong>신부 </strong>이여원</p>
+      </div>
+      <div>
         <button onClick={handleClick}>축하하기</button>
       </div>
     </div>
